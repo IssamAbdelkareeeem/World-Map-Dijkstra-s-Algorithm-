@@ -1,0 +1,299 @@
+52,246
+New York, 38.8951, -77.0364
+Ottawa, 45.4166, -75.698
+Ankara, 39.9199, 32.8543
+Beijing, 39.9075, 116.3972
+Moscow, 55.755, 37.6218
+Algiers, 36.737232, 3.086472
+Tehran, 35.6944, 51.4215
+Paris, 48.8534, 2.3488
+Pretoria, -33.9258, 18.4232
+Oslo, 59.9127, 10.7461
+Stockholm, 59.3326, 18.0649
+Helsinki, 60.1692, 24.9402
+London, 51.5085, -0.1257
+Cairo, 30.0392, 31.2394
+Abu Dhabi, 24.4648, 54.3618
+Riyadh, 24.6905, 46.7096
+Brasilia, -15.7797, -47.9297
+Canberra, -35.2835, 149.1281
+Copenhagen, 55.676, 12.56833
+Yamoussoukro, 5.3453, -4.0268
+Rome, 41.8947, 12.4811
+Kyiv, 50.4454, 30.5186
+Rabat, 34.0133, -6.8326
+Jakarta, -6.2118, 106.8416
+Niamey, 13.5137, 2.1098
+Buenos Aires, -34.6051, -58.4004
+Tokyo, 35.6895, 139.6917
+Madrid, 40.4165, -3.7026
+Athens, 37.9534, 23.749
+Reykjavik, 64.1355, -21.8954
+Lima, -12.0432, -77.0282
+Luanda, -8.8368, 13.2343
+Abuja, 9.0574, 7.4898
+Mexico City, 19.4273, -99.1419
+Mogadishu, 2.0416, 45.3435
+Islamabad, 33.7035, 73.0594
+Bangkok, 13.722, 100.5252
+Hanoi, 21.0245, 105.8412
+Baghdad, 33.3406, 44.4009
+Warsaw, 52.2298, 21.0118
+Jerusalem, 31.7690, 35.2163
+N'Djamena, 12.1067, 15.0444
+Dublin, 53.3331, -6.2489
+Wellington, -41.2866, 174.7756
+Santiago, -33.4569, -70.6483
+Seoul, 37.5683, 126.9778
+Brussels, 50.8467, 4.3499
+Amman, 31.9552, 35.945
+Juneau, 66.160507, -153.369141
+Lusaka, 13.1339, 27.8493
+New York, Islamabad, 1200$, 840min
+New York, Cairo, 1000$, 780min
+New York, Ottawa, 300$, 180min
+New York, Reykjavik, 600$, 360min
+New York, Lima, 700$, 420min
+New York, Brasilia, 800$, 540min
+New York, Tokyo, 1500$, 900min
+New York, Copenhagen, 1100$, 720min
+New York, Riyadh, 1300$, 840min
+New York, Kyiv, 1200$, 780min
+New York, Canberra, 1600$, 1080min
+Copenhagen, New York, 1100$, 720min
+Copenhagen, London, 200$, 90min
+Copenhagen, Cairo, 700$, 240min
+Copenhagen, Rome, 300$, 120min
+Ottawa, New York, 300$, 180min
+Ottawa, Amman, 1100$, 840min
+Ottawa, Seoul, 1400$, 900min
+Ottawa, Copenhagen, 1000$, 720min
+Ankara, Ottawa, 950$, 750min
+Ankara, Abu Dhabi, 400$, 150min
+Ankara, Amman, 250$, 90min
+Ankara, Copenhagen, 500$, 180min
+Madrid, Paris, 150$, 90min
+Madrid, Rabat, 200$, 120min
+Madrid, Rome, 250$, 150min
+Beijing, Ankara, 850$, 360min
+Beijing, Moscow, 700$, 240min
+Beijing, Rome, 1000$, 480min
+Beijing, Yamoussoukro, 1200$, 720min
+Moscow, Copenhagen, 800$, 270min
+Moscow, Beijing, 700$, 240min
+Moscow, Tehran, 500$, 180min
+Moscow, Ankara, 600$, 200min
+Moscow, Dublin, 900$, 330min
+Moscow, Islamabad, 750$, 300min
+Algiers, Cairo, 300$, 90min
+Algiers, Rabat, 250$, 80min
+Algiers, Pretoria, 1200$, 480min
+Algiers, Abuja, 700$, 270min
+Algiers, Hanoi, 1300$, 540min
+Algiers, Hanoi, Canberra,  1300$, 540min
+Yamoussoukro, Bangkok, 800$, 960min
+Yamoussoukro, Paris, 600$, 360min
+Yamoussoukro, Jerusalem, 700$, 720min
+Yamoussoukro, Brasilia, 1200$, 1200min
+Yamoussoukro, Amman, 750$, 780min
+Tehran, Moscow, 500$, 180min
+Tehran, Jakarta, 900$, 330min
+Tehran, Niamey, 700$, 270min
+Tehran, Seoul, 1000$, 420min
+Tehran, Tokyo, 1200$, 540min
+Tehran, Baghdad, 200$, 90min
+Paris, Algiers, 400$, 150min
+Paris, Madrid, 200$, 90min
+Paris, Stockholm, 500$, 180min
+Paris, Helsinki, 600$, 240min
+Paris, Copenhagen, 250$, 90min
+Paris, London, 300$, 100min
+Paris, Athens, 600$, 200min
+Paris, Copenhagen, 400$, 130min
+Paris, Brussels, 150$, 60min
+Pretoria, Ankara, 1100$, 480min
+Pretoria, New York, 1500$, 840min
+Pretoria, Madrid, 1200$, 540min
+Pretoria, Islamabad, 1200$, 700min
+Oslo, Mogadishu, 1400$, 600min
+Oslo, Rome, 600$, 240min
+Oslo, Athens, 700$, 270min
+Oslo, Copenhagen, 250$, 90min
+Oslo, Helsinki, 200$, 80min
+Stockholm, Bangkok, 1000$, 420min
+Stockholm, New York, 1400$, 780min
+Stockholm, Abu Dhabi, 900$, 360min
+Stockholm, Rabat, 800$, 300min
+Stockholm, Rome, 600$, 240min
+London,  Buenos Aires, 1400$, 840min
+London, Santiago, 1500$, 900min
+London, Pretoria, 1300$, 720min
+London, Brussels, 150$, 60min
+Helsinki, Moscow, 700$, 270min
+Helsinki, Mogadishu, 1400$, 600min
+Helsinki, Niamey, 1300$, 540min
+Helsinki, Ottawa, 1300$, 780min
+Cairo, Amman, 200$, 90min
+Cairo, Pretoria, 1000$, 480min
+Cairo, Seoul, 1200$, 720min
+Cairo, London, 700$, 300min
+Abu Dhabi, Brasilia, 1400$, 780min
+Abu Dhabi, New York, 1200$, 720min
+Abu Dhabi, Beijing, 1000$, 540min
+Abu Dhabi, Abuja, 800$, 360min
+Abu Dhabi, Cairo, 300$, 120min
+Abu Dhabi, Canberra, 1500$, 900min
+Brasilia, New York, 1300$, 380min
+Brasilia, Abu Dhabi, 1000$, 320min
+Brasilia, Riyadh, 1100$, 340min
+Brasilia, Cairo, 1200$, 350min
+Brasilia, Canberra, 1100$, 330min
+Canberra, New York, 1400$, 400min
+Canberra, Abu Dhabi, 950$, 300min
+Canberra, Riyadh, 1200$, 370min
+Canberra, Brasilia, 1100$, 330min
+Canberra, Cairo, 1300$, 380min
+Copenhagen, Juneau, 200$, 120min
+Copenhagen, Reykjavik, 200$, 80min
+Copenhagen, New York, 800$, 250min
+Copenhagen, London, 450$, 150min
+Copenhagen, Stockholm, 300$, 100min
+Rome, New York, 1000$, 330min
+Rome, London, 600$, 200min
+Rome, Kyiv, 750$, 260min
+Rome, Rabat, 700$, 230min
+Rome,  Buenos Aires, 950$, 310min
+Kyiv, New York, 1100$, 320min
+Kyiv, London, 850$, 290min
+Kyiv, Rome, 750$, 260min
+Kyiv, Rabat, 900$, 300min
+Kyiv, Jakarta, 950$, 310min
+Jakarta, New York, 1200$, 350min
+Jakarta, London, 950$, 320min
+Jakarta, Rome, 850$, 270min
+Jakarta, Rabat, 800$, 260min
+Jakarta, Niamey, 1000$, 330min
+Jakarta, Canberra, 530$, 430min
+Buenos Aires, New York, 1200$, 360min
+Buenos Aires, London, 950$, 310min
+Buenos Aires, Rome, 950$, 310min
+Buenos Aires, Rabat, 1000$, 330min
+Buenos Aires, Tokyo, 1300$, 400min
+Tokyo, Mongolia, 800$, 240min
+Mongolia, Moscow, 500$, 150min
+Tokyo, New York, 1400$, 420min
+Tokyo, London, 1000$, 330min
+Tokyo, Rome, 1100$, 350min
+Tokyo, Kyiv, 1200$, 370min
+Athens, New York, 850$, 270min
+Athens, London, 600$, 200min
+Athens, Rome, 700$, 230min
+Athens, Madrid, 750$, 250min
+Athens, Rabat, 800$, 260min
+Reykjavik, New York, 950$, 290min
+Reykjavik, London, 400$, 130min
+Reykjavik, Oslo, 450$, 150min
+Reykjavik, Copenhagen, 200$, 80min
+Reykjavik, Helsinki, 550$, 180min
+Lima, New York, 1000$, 320min
+Lima, Santiago, 700$, 230min
+Lima, Brasilia, 850$, 270min
+Lima,  Buenos Aires, 950$, 300min
+Lima, Mexico City, 800$, 260min
+Luanda, Pretoria, 1000$, 320min
+Luanda, Abuja, 850$, 280min
+Luanda, Brasilia, 1100$, 340min
+Abuja, New York, 1100$, 340min
+Abuja, London, 850$, 290min
+Abuja, Luanda, 850$, 280min
+Abuja, Niamey, 800$, 270min
+Abuja, Pretoria, 950$, 300min
+Mexico City, New York, 700$, 220min
+Mexico City, Brasilia, 800$, 260min
+Mexico City,  Buenos Aires, 850$, 290min
+Mexico City, Lima, 800$, 260min
+Mexico City, Madrid, 900$, 300min
+Mogadishu, New York, 1200$, 370min
+Mogadishu, London, 850$, 280min
+Mogadishu, Ethiopia, 700$, 230min
+Mogadishu, Kenya, 750$, 240min
+Mogadishu, Cairo, 950$, 300min
+Islamabad, New York, 1100$, 330min
+Islamabad, India, 250$, 90min
+Islamabad, Beijing, 800$, 270min
+Islamabad, Tehran, 750$, 250min
+Islamabad, Afghanistan, 400$, 130min
+Bangkok, New York, 1300$, 400min
+Bangkok, Beijing, 950$, 310min
+Hanoi, New York, 1200$, 360min
+Hanoi, Bangkok, 750$, 240min
+Hanoi, Beijing, 850$, 270min
+Hanoi, Laos, 400$, 130min
+Hanoi, Cambodia, 450$, 150min
+Baghdad, New York, 1100$, 340min
+Baghdad, Tehran, 400$, 130min
+Baghdad, Riyadh, 750$, 250min
+Baghdad, Amman, 650$, 220min
+Baghdad, Syria, 800$, 270min
+Warsaw, Kyiv, 700$, 230min
+Warsaw, Moscow, 600$, 200min
+Warsaw, London, 650$, 220min
+Jerusalem, Amman, 200$, 90min
+Jerusalem, Cairo, 300$, 120min
+Jerusalem, Riyadh, 400$, 180min
+Jerusalem, Ankara, 450$, 240min
+Jerusalem, Baghdad, 350$, 180min
+Jerusalem, Abu Dhabi, 500$, 300min
+Jerusalem, Beirut, 150$, 60min
+Jerusalem, Athens, 400$, 180min
+Jerusalem, Rome, 500$, 240min
+Jerusalem, Istanbul, 450$, 210min
+Jerusalem, Paris, 650$, 300min
+N'Djamena, New York, 1100$, 340min
+N'Djamena, Abuja, 850$, 280min
+N'Djamena, Algiers, 750$, 240min
+N'Djamena, Pretoria, 950$, 300min
+N'Djamena, Paris, 800$, 270min
+Dublin, New York, 950$, 290min
+Dublin, London, 400$, 130min
+Dublin, Reykjavik, 550$, 180min
+Dublin, Paris, 600$, 200min
+Dublin, Copenhagen, 650$, 220min
+Wellington, New York, 1400$, 420min
+Wellington, Canberra, 350$, 120min
+Wellington, London, 1000$, 320min
+Wellington, Santiago, 950$, 310min
+Wellington, Seoul, 1100$, 350min
+Santiago, New York, 1000$, 320min
+Santiago,  Buenos Aires, 800$, 270min
+Santiago, Brasilia, 850$, 290min
+Santiago, Lima, 800$, 260min
+Santiago, Wellington, 950$, 310min
+Seoul, New York, 1100$, 350min
+Seoul, Beijing, 850$, 290min
+Seoul, Tokyo, 900$, 310min
+Seoul, Bangkok, 750$, 240min
+Seoul, Wellington, 1100$, 350min
+Brussels, Mexico City, 1200$, 720min
+Brussels, New York, 900$, 420min
+Brussels, Tokyo, 1300$, 720min
+Brussels, Beijing, 1100$, 540min
+Brussels, Moscow, 900$, 400min
+Brussels, Abu Dhabi, 800$, 360min
+Brussels, Riyadh, 900$, 400min
+Brussels, Abuja, 700$, 300min
+Reykjavik, Dublin, 300$, 180min
+Reykjavik, London, 450$, 210min
+Amman, Abu Dhabi, 300$, 120min
+Amman, Algiers, 500$, 200min
+Amman, Cairo, 200$, 90min
+Amman, Copenhagen, 800$, 360min
+Amman, Beijing, 1000$, 480min
+Amman, Baghdad, 150$, 60min
+Amman, Rabat, 600$, 240min
+Juneau, Cairo, 1500$, 900min
+Juneau, Riyadh, 1600$, 960min
+Juneau, Ankara, 1400$, 840min
+Juneau, Baghdad, 1500$, 870min
+Juneau, Abu Dhabi, 1700$, 990min
+Juneau, Beirut, 1400$, 840min
