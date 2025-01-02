@@ -20,7 +20,12 @@ Lowest Price :
 Minimum Time : 
 ![image](https://github.com/user-attachments/assets/cf0a969c-4579-4b32-9e44-268293856445)
 
+
+
+
+
 special scenario :  9/11 , only works when the path is from Afghanstan's capital ---> New York
+
 ![image](https://github.com/user-attachments/assets/122d68ad-6140-44df-aa71-3f7c2a069599)
 
 ![image](https://github.com/user-attachments/assets/f28e5be3-3ba0-4bbf-a0f1-5309ddd0240b)
