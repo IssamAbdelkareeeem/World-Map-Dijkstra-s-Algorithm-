@@ -28,12 +28,13 @@ special scenario :  9/11 , only works when the path is from Afghanstan's capital
 
 ![image](https://github.com/user-attachments/assets/122d68ad-6140-44df-aa71-3f7c2a069599)
 
-![image](https://github.com/user-attachments/assets/f28e5be3-3ba0-4bbf-a0f1-5309ddd0240b)
 
 
 
 
-https://github.com/user-attachments/assets/186ebd01-7639-439c-824d-6dc3fb27f3e6
+
+https://github.com/user-attachments/assets/e388b3f0-08ed-4497-b16a-3802a35c1ae8
+
 
 
 Mind BLOWING project ? هههههههه 
