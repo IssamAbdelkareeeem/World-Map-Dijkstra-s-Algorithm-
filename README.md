@@ -24,20 +24,10 @@ Minimum Time :
 
 
 
-special scenario :  9/11 , only works when the path is from Afghanstan's capital ---> New York
-
-![image](https://github.com/user-attachments/assets/122d68ad-6140-44df-aa71-3f7c2a069599)
+special scenario :  9/11
 
 
-
-
-
-
-https://github.com/user-attachments/assets/e388b3f0-08ed-4497-b16a-3802a35c1ae8
-
-
-
-Mind BLOWING project ? هههههههه 
+https://github.com/user-attachments/assets/e388b3f0-08ed-4497-b16a-
 
 
 
