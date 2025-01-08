@@ -12,7 +12,9 @@ After loading the file , the map of the world with location pins / path controls
 Filters to compute routes based on:
 
 **-Shortest Distance**
+
 **-Lowest Price**
+
 **-Minimum Time**
 
 **Scenario : From New York ➡️ Bangkok with the 3 different filters**
