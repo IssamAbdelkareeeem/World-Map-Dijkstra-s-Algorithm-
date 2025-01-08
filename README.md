@@ -9,7 +9,7 @@ After loading the file , the map of the world with location pins / path controls
 
 ![image](https://github.com/user-attachments/assets/b7e3aedd-3fe6-4981-9817-647ebb1a22b4)
 
-Path Filteres:
+Path Filters:
 
 **-Shortest Distance**
 
