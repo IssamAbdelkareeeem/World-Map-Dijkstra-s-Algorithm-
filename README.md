@@ -1,6 +1,6 @@
 # World-Map-Dijkstra-Algorithm-
 
-**This program represents the dijkstra's shortest path algorithm between two capitals in the map of the world
+**This program represents the dijkstra's algorithm to find the SHORTEST PATH between two capitals in the map of the world
 with 2 additional features (lowest price & minimum time)**
 
 ![image](https://github.com/user-attachments/assets/7fa61b83-a354-48f0-9ce7-f6ed9b9ec946)
