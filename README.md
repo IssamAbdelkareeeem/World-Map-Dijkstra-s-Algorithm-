@@ -9,7 +9,7 @@ After loading the file , the map of the world with location pins / path controls
 
 ![image](https://github.com/user-attachments/assets/b7e3aedd-3fe6-4981-9817-647ebb1a22b4)
 
-Filters to compute routes based on:
+Path Filteres:
 
 **-Shortest Distance**
 
@@ -17,8 +17,11 @@ Filters to compute routes based on:
 
 **-Minimum Time**
 
-**Scenario : From New York ➡️ Bangkok with the 3 different filters**
 
+
+
+
+**Scenario : From New York ➡️ Bangkok with the 3 different filters**
 
 
 
